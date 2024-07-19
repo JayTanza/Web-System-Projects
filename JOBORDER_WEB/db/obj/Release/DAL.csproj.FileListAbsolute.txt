@@ -100,7 +100,6 @@ C:\Jay Tanza Projects\MyProjects\Web\JobOrderSystem - Tanza\19\JOBORDER_WEB\db\b
 C:\Jay Tanza Projects\MyProjects\Web\JobOrderSystem - Tanza\19\JOBORDER_WEB\db\bin\Release\EntityFramework.SqlServer.dll
 C:\Jay Tanza Projects\MyProjects\Web\JobOrderSystem - Tanza\19\JOBORDER_WEB\db\bin\Release\EntityFramework.xml
 C:\Jay Tanza Projects\MyProjects\Web\JobOrderSystem - Tanza\19\JOBORDER_WEB\db\bin\Release\EntityFramework.SqlServer.xml
-C:\Jay Tanza Projects\MyProjects\Web\JobOrderSystem - Tanza\19\JOBORDER_WEB\db\obj\Release\DAL.csprojAssemblyReference.cache
 C:\Jay Tanza Projects\MyProjects\Web\JobOrderSystem - Tanza\19\JOBORDER_WEB\db\obj\Release\DAL.csproj.CoreCompileInputs.cache
 C:\Jay Tanza Projects\MyProjects\Web\JobOrderSystem - Tanza\19\JOBORDER_WEB\db\obj\Release\DAL.csproj.CopyComplete
 C:\Jay Tanza Projects\MyProjects\Web\JobOrderSystem - Tanza\19\JOBORDER_WEB\db\obj\Release\db.dll
