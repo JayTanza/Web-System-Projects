@@ -227,6 +227,7 @@
     <Compile Include="Controllers\NetworkController.cs" />
     <Compile Include="Controllers\PreventiveController.cs" />
     <Compile Include="Controllers\ReportsController.cs" />
+    <Compile Include="Controllers\SecurityController.cs" />
     <Compile Include="Controllers\ServerController.cs" />
     <Compile Include="Controllers\ServerMonitoringController.cs" />
     <Compile Include="Controllers\TelephoneController.cs" />
@@ -238,6 +239,7 @@
     <Compile Include="Models\JobOrdersModel.cs" />
     <Compile Include="Models\DowntimeModel.cs" />
     <Compile Include="Models\MaintenanceModel.cs" />
+    <Compile Include="Models\SecurityModel.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -809,6 +811,7 @@
     <None Include="Properties\PublishProfiles\FolderProfile.pubxml" />
     <None Include="Properties\PublishProfiles\FolderProfile1.pubxml" />
     <None Include="Properties\PublishProfiles\FolderProfile2.pubxml" />
+    <Content Include="Views\Security\Security.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <TypeScriptCompile Include="Content\calendar\bootstrap\main.d.ts" />
