@@ -1,0 +1,107 @@
+C:\Users\g192123\Desktop\Grace Booc\New Projects\Web\JobOrder_Web\db\bin\Release\db.dll.config
+C:\Users\g192123\Desktop\Grace Booc\New Projects\Web\JobOrder_Web\db\bin\Release\db.dll
+C:\Users\g192123\Desktop\Grace Booc\New Projects\Web\JobOrder_Web\db\bin\Release\db.pdb
+C:\Users\g192123\Desktop\Grace Booc\New Projects\Web\JobOrder_Web\db\bin\Release\EntityFramework.dll
+C:\Users\g192123\Desktop\Grace Booc\New Projects\Web\JobOrder_Web\db\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\g192123\Desktop\Grace Booc\New Projects\Web\JobOrder_Web\db\bin\Release\EntityFramework.xml
+C:\Users\g192123\Desktop\Grace Booc\New Projects\Web\JobOrder_Web\db\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\g192123\Desktop\Grace Booc\New Projects\Web\JobOrder_Web\db\obj\Release\DAL.csprojAssemblyReference.cache
+C:\Users\g192123\Desktop\Grace Booc\New Projects\Web\JobOrder_Web\db\obj\Release\DAL.csproj.CoreCompileInputs.cache
+C:\Users\g192123\Desktop\Grace Booc\New Projects\Web\JobOrder_Web\db\obj\Release\DAL.csproj.CopyComplete
+C:\Users\g192123\Desktop\Grace Booc\New Projects\Web\JobOrder_Web\db\obj\Release\db.dll
+C:\Users\g192123\Desktop\Grace Booc\New Projects\Web\JobOrder_Web\db\obj\Release\db.pdb
+C:\Users\g192123\Desktop\Grace Booc\New Projects\Web\JobOrder\JOBORDER_WEB\db\bin\Release\db.dll.config
+C:\Users\g192123\Desktop\Grace Booc\New Projects\Web\JobOrder\JOBORDER_WEB\db\bin\Release\db.dll
+C:\Users\g192123\Desktop\Grace Booc\New Projects\Web\JobOrder\JOBORDER_WEB\db\bin\Release\db.pdb
+C:\Users\g192123\Desktop\Grace Booc\New Projects\Web\JobOrder\JOBORDER_WEB\db\bin\Release\EntityFramework.dll
+C:\Users\g192123\Desktop\Grace Booc\New Projects\Web\JobOrder\JOBORDER_WEB\db\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\g192123\Desktop\Grace Booc\New Projects\Web\JobOrder\JOBORDER_WEB\db\bin\Release\EntityFramework.xml
+C:\Users\g192123\Desktop\Grace Booc\New Projects\Web\JobOrder\JOBORDER_WEB\db\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\g192123\Desktop\Grace Booc\New Projects\Web\JobOrder\JOBORDER_WEB\db\obj\Release\DAL.csproj.CoreCompileInputs.cache
+C:\Users\g192123\Desktop\Grace Booc\New Projects\Web\JobOrder\JOBORDER_WEB\db\obj\Release\DAL.csproj.CopyComplete
+C:\Users\g192123\Desktop\Grace Booc\New Projects\Web\JobOrder\JOBORDER_WEB\db\obj\Release\db.dll
+C:\Users\g192123\Desktop\Grace Booc\New Projects\Web\JobOrder\JOBORDER_WEB\db\obj\Release\db.pdb
+C:\Users\g192123\Desktop\Grace Booc\New Projects\Web\JobOrder\JOBORDER_WEB\db\obj\Release\DAL.csprojAssemblyReference.cache
+C:\Users\g192123\Desktop\Grace Booc\Projects\Web\New folder\JOBORDER_WEB\db\bin\Release\db.dll.config
+C:\Users\g192123\Desktop\Grace Booc\Projects\Web\New folder\JOBORDER_WEB\db\bin\Release\db.dll
+C:\Users\g192123\Desktop\Grace Booc\Projects\Web\New folder\JOBORDER_WEB\db\bin\Release\db.pdb
+C:\Users\g192123\Desktop\Grace Booc\Projects\Web\New folder\JOBORDER_WEB\db\bin\Release\EntityFramework.dll
+C:\Users\g192123\Desktop\Grace Booc\Projects\Web\New folder\JOBORDER_WEB\db\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\g192123\Desktop\Grace Booc\Projects\Web\New folder\JOBORDER_WEB\db\bin\Release\EntityFramework.xml
+C:\Users\g192123\Desktop\Grace Booc\Projects\Web\New folder\JOBORDER_WEB\db\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\g192123\Desktop\Grace Booc\Projects\Web\New folder\JOBORDER_WEB\db\obj\Release\DAL.csprojAssemblyReference.cache
+C:\Users\g192123\Desktop\Grace Booc\Projects\Web\New folder\JOBORDER_WEB\db\obj\Release\DAL.csproj.CoreCompileInputs.cache
+C:\Users\g192123\Desktop\Grace Booc\Projects\Web\New folder\JOBORDER_WEB\db\obj\Release\DAL.csproj.CopyComplete
+C:\Users\g192123\Desktop\Grace Booc\Projects\Web\New folder\JOBORDER_WEB\db\obj\Release\db.dll
+C:\Users\g192123\Desktop\Grace Booc\Projects\Web\New folder\JOBORDER_WEB\db\obj\Release\db.pdb
+C:\Jay Tanza Projects\Job Order\JOBORDER_WEB\db\bin\Release\db.dll.config
+C:\Jay Tanza Projects\Job Order\JOBORDER_WEB\db\bin\Release\db.dll
+C:\Jay Tanza Projects\Job Order\JOBORDER_WEB\db\bin\Release\db.pdb
+C:\Jay Tanza Projects\Job Order\JOBORDER_WEB\db\bin\Release\EntityFramework.dll
+C:\Jay Tanza Projects\Job Order\JOBORDER_WEB\db\bin\Release\EntityFramework.SqlServer.dll
+C:\Jay Tanza Projects\Job Order\JOBORDER_WEB\db\bin\Release\EntityFramework.xml
+C:\Jay Tanza Projects\Job Order\JOBORDER_WEB\db\bin\Release\EntityFramework.SqlServer.xml
+C:\Jay Tanza Projects\Job Order\JOBORDER_WEB\db\obj\Release\DAL.csproj.CoreCompileInputs.cache
+C:\Jay Tanza Projects\Job Order\JOBORDER_WEB\db\obj\Release\DAL.csproj.CopyComplete
+C:\Jay Tanza Projects\Job Order\JOBORDER_WEB\db\obj\Release\db.dll
+C:\Jay Tanza Projects\Job Order\JOBORDER_WEB\db\obj\Release\db.pdb
+C:\Jay Tanza Projects\Job Order Repository\2024\16-07-2024\2\Job Order\JOBORDER_WEB\db\bin\Release\db.dll.config
+C:\Jay Tanza Projects\Job Order Repository\2024\16-07-2024\2\Job Order\JOBORDER_WEB\db\bin\Release\db.dll
+C:\Jay Tanza Projects\Job Order Repository\2024\16-07-2024\2\Job Order\JOBORDER_WEB\db\bin\Release\db.pdb
+C:\Jay Tanza Projects\Job Order Repository\2024\16-07-2024\2\Job Order\JOBORDER_WEB\db\bin\Release\EntityFramework.dll
+C:\Jay Tanza Projects\Job Order Repository\2024\16-07-2024\2\Job Order\JOBORDER_WEB\db\bin\Release\EntityFramework.SqlServer.dll
+C:\Jay Tanza Projects\Job Order Repository\2024\16-07-2024\2\Job Order\JOBORDER_WEB\db\bin\Release\EntityFramework.xml
+C:\Jay Tanza Projects\Job Order Repository\2024\16-07-2024\2\Job Order\JOBORDER_WEB\db\bin\Release\EntityFramework.SqlServer.xml
+C:\Jay Tanza Projects\Job Order Repository\2024\16-07-2024\2\Job Order\JOBORDER_WEB\db\obj\Release\DAL.csprojAssemblyReference.cache
+C:\Jay Tanza Projects\Job Order Repository\2024\16-07-2024\2\Job Order\JOBORDER_WEB\db\obj\Release\DAL.csproj.CoreCompileInputs.cache
+C:\Jay Tanza Projects\Job Order Repository\2024\16-07-2024\2\Job Order\JOBORDER_WEB\db\obj\Release\DAL.csproj.CopyComplete
+C:\Jay Tanza Projects\Job Order Repository\2024\16-07-2024\2\Job Order\JOBORDER_WEB\db\obj\Release\db.dll
+C:\Jay Tanza Projects\Job Order Repository\2024\16-07-2024\2\Job Order\JOBORDER_WEB\db\obj\Release\db.pdb
+C:\Jay Tanza Projects\Job Order Repository\2024\JO-16-07-2024\up\Job Order\JOBORDER_WEB\db\bin\Release\db.dll.config
+C:\Jay Tanza Projects\Job Order Repository\2024\JO-16-07-2024\up\Job Order\JOBORDER_WEB\db\bin\Release\db.dll
+C:\Jay Tanza Projects\Job Order Repository\2024\JO-16-07-2024\up\Job Order\JOBORDER_WEB\db\bin\Release\db.pdb
+C:\Jay Tanza Projects\Job Order Repository\2024\JO-16-07-2024\up\Job Order\JOBORDER_WEB\db\bin\Release\EntityFramework.dll
+C:\Jay Tanza Projects\Job Order Repository\2024\JO-16-07-2024\up\Job Order\JOBORDER_WEB\db\bin\Release\EntityFramework.SqlServer.dll
+C:\Jay Tanza Projects\Job Order Repository\2024\JO-16-07-2024\up\Job Order\JOBORDER_WEB\db\bin\Release\EntityFramework.xml
+C:\Jay Tanza Projects\Job Order Repository\2024\JO-16-07-2024\up\Job Order\JOBORDER_WEB\db\bin\Release\EntityFramework.SqlServer.xml
+C:\Jay Tanza Projects\Job Order Repository\2024\JO-16-07-2024\up\Job Order\JOBORDER_WEB\db\obj\Release\DAL.csprojAssemblyReference.cache
+C:\Jay Tanza Projects\Job Order Repository\2024\JO-16-07-2024\up\Job Order\JOBORDER_WEB\db\obj\Release\DAL.csproj.CoreCompileInputs.cache
+C:\Jay Tanza Projects\Job Order Repository\2024\JO-16-07-2024\up\Job Order\JOBORDER_WEB\db\obj\Release\DAL.csproj.CopyComplete
+C:\Jay Tanza Projects\Job Order Repository\2024\JO-16-07-2024\up\Job Order\JOBORDER_WEB\db\obj\Release\db.dll
+C:\Jay Tanza Projects\Job Order Repository\2024\JO-16-07-2024\up\Job Order\JOBORDER_WEB\db\obj\Release\db.pdb
+C:\Jay Tanza Projects\MyProjects\Web\Job Order Source Code - Tanza\Job Order\JOBORDER_WEB\db\bin\Release\db.dll.config
+C:\Jay Tanza Projects\MyProjects\Web\Job Order Source Code - Tanza\Job Order\JOBORDER_WEB\db\bin\Release\db.dll
+C:\Jay Tanza Projects\MyProjects\Web\Job Order Source Code - Tanza\Job Order\JOBORDER_WEB\db\bin\Release\db.pdb
+C:\Jay Tanza Projects\MyProjects\Web\Job Order Source Code - Tanza\Job Order\JOBORDER_WEB\db\bin\Release\EntityFramework.dll
+C:\Jay Tanza Projects\MyProjects\Web\Job Order Source Code - Tanza\Job Order\JOBORDER_WEB\db\bin\Release\EntityFramework.SqlServer.dll
+C:\Jay Tanza Projects\MyProjects\Web\Job Order Source Code - Tanza\Job Order\JOBORDER_WEB\db\bin\Release\EntityFramework.xml
+C:\Jay Tanza Projects\MyProjects\Web\Job Order Source Code - Tanza\Job Order\JOBORDER_WEB\db\bin\Release\EntityFramework.SqlServer.xml
+C:\Jay Tanza Projects\MyProjects\Web\Job Order Source Code - Tanza\Job Order\JOBORDER_WEB\db\obj\Release\DAL.csprojAssemblyReference.cache
+C:\Jay Tanza Projects\MyProjects\Web\Job Order Source Code - Tanza\Job Order\JOBORDER_WEB\db\obj\Release\DAL.csproj.CoreCompileInputs.cache
+C:\Jay Tanza Projects\MyProjects\Web\Job Order Source Code - Tanza\Job Order\JOBORDER_WEB\db\obj\Release\DAL.csproj.CopyComplete
+C:\Jay Tanza Projects\MyProjects\Web\Job Order Source Code - Tanza\Job Order\JOBORDER_WEB\db\obj\Release\db.dll
+C:\Jay Tanza Projects\MyProjects\Web\Job Order Source Code - Tanza\Job Order\JOBORDER_WEB\db\obj\Release\db.pdb
+C:\Jay Tanza Projects\MyProjects\Web\Job Order Repository\Repo-Full\Job Order\JOBORDER_WEB\db\bin\Release\db.dll.config
+C:\Jay Tanza Projects\MyProjects\Web\Job Order Repository\Repo-Full\Job Order\JOBORDER_WEB\db\bin\Release\db.dll
+C:\Jay Tanza Projects\MyProjects\Web\Job Order Repository\Repo-Full\Job Order\JOBORDER_WEB\db\bin\Release\db.pdb
+C:\Jay Tanza Projects\MyProjects\Web\Job Order Repository\Repo-Full\Job Order\JOBORDER_WEB\db\bin\Release\EntityFramework.dll
+C:\Jay Tanza Projects\MyProjects\Web\Job Order Repository\Repo-Full\Job Order\JOBORDER_WEB\db\bin\Release\EntityFramework.SqlServer.dll
+C:\Jay Tanza Projects\MyProjects\Web\Job Order Repository\Repo-Full\Job Order\JOBORDER_WEB\db\bin\Release\EntityFramework.xml
+C:\Jay Tanza Projects\MyProjects\Web\Job Order Repository\Repo-Full\Job Order\JOBORDER_WEB\db\bin\Release\EntityFramework.SqlServer.xml
+C:\Jay Tanza Projects\MyProjects\Web\Job Order Repository\Repo-Full\Job Order\JOBORDER_WEB\db\obj\Release\DAL.csprojAssemblyReference.cache
+C:\Jay Tanza Projects\MyProjects\Web\Job Order Repository\Repo-Full\Job Order\JOBORDER_WEB\db\obj\Release\DAL.csproj.CoreCompileInputs.cache
+C:\Jay Tanza Projects\MyProjects\Web\Job Order Repository\Repo-Full\Job Order\JOBORDER_WEB\db\obj\Release\DAL.csproj.CopyComplete
+C:\Jay Tanza Projects\MyProjects\Web\Job Order Repository\Repo-Full\Job Order\JOBORDER_WEB\db\obj\Release\db.dll
+C:\Jay Tanza Projects\MyProjects\Web\Job Order Repository\Repo-Full\Job Order\JOBORDER_WEB\db\obj\Release\db.pdb
+C:\Jay Tanza Projects\MyProjects\Web\JobOrderSystem - Tanza\19\JOBORDER_WEB\db\bin\Release\db.dll.config
+C:\Jay Tanza Projects\MyProjects\Web\JobOrderSystem - Tanza\19\JOBORDER_WEB\db\bin\Release\db.dll
+C:\Jay Tanza Projects\MyProjects\Web\JobOrderSystem - Tanza\19\JOBORDER_WEB\db\bin\Release\db.pdb
+C:\Jay Tanza Projects\MyProjects\Web\JobOrderSystem - Tanza\19\JOBORDER_WEB\db\bin\Release\EntityFramework.dll
+C:\Jay Tanza Projects\MyProjects\Web\JobOrderSystem - Tanza\19\JOBORDER_WEB\db\bin\Release\EntityFramework.SqlServer.dll
+C:\Jay Tanza Projects\MyProjects\Web\JobOrderSystem - Tanza\19\JOBORDER_WEB\db\bin\Release\EntityFramework.xml
+C:\Jay Tanza Projects\MyProjects\Web\JobOrderSystem - Tanza\19\JOBORDER_WEB\db\bin\Release\EntityFramework.SqlServer.xml
+C:\Jay Tanza Projects\MyProjects\Web\JobOrderSystem - Tanza\19\JOBORDER_WEB\db\obj\Release\DAL.csprojAssemblyReference.cache
+C:\Jay Tanza Projects\MyProjects\Web\JobOrderSystem - Tanza\19\JOBORDER_WEB\db\obj\Release\DAL.csproj.CoreCompileInputs.cache
+C:\Jay Tanza Projects\MyProjects\Web\JobOrderSystem - Tanza\19\JOBORDER_WEB\db\obj\Release\DAL.csproj.CopyComplete
+C:\Jay Tanza Projects\MyProjects\Web\JobOrderSystem - Tanza\19\JOBORDER_WEB\db\obj\Release\db.dll
+C:\Jay Tanza Projects\MyProjects\Web\JobOrderSystem - Tanza\19\JOBORDER_WEB\db\obj\Release\db.pdb
