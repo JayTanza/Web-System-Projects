@@ -104,3 +104,15 @@ C:\Jay Tanza Projects\MyProjects\Web\JobOrderSystem - Tanza\19\JOBORDER_WEB\db\o
 C:\Jay Tanza Projects\MyProjects\Web\JobOrderSystem - Tanza\19\JOBORDER_WEB\db\obj\Release\DAL.csproj.CopyComplete
 C:\Jay Tanza Projects\MyProjects\Web\JobOrderSystem - Tanza\19\JOBORDER_WEB\db\obj\Release\db.dll
 C:\Jay Tanza Projects\MyProjects\Web\JobOrderSystem - Tanza\19\JOBORDER_WEB\db\obj\Release\db.pdb
+C:\Jay Tanza Projects\MyProjects\Web\JobOrderSystem - Tanza\19-2\Web-System-Projects\JOBORDER_WEB\db\bin\Release\db.dll.config
+C:\Jay Tanza Projects\MyProjects\Web\JobOrderSystem - Tanza\19-2\Web-System-Projects\JOBORDER_WEB\db\bin\Release\db.dll
+C:\Jay Tanza Projects\MyProjects\Web\JobOrderSystem - Tanza\19-2\Web-System-Projects\JOBORDER_WEB\db\bin\Release\db.pdb
+C:\Jay Tanza Projects\MyProjects\Web\JobOrderSystem - Tanza\19-2\Web-System-Projects\JOBORDER_WEB\db\bin\Release\EntityFramework.dll
+C:\Jay Tanza Projects\MyProjects\Web\JobOrderSystem - Tanza\19-2\Web-System-Projects\JOBORDER_WEB\db\bin\Release\EntityFramework.SqlServer.dll
+C:\Jay Tanza Projects\MyProjects\Web\JobOrderSystem - Tanza\19-2\Web-System-Projects\JOBORDER_WEB\db\bin\Release\EntityFramework.xml
+C:\Jay Tanza Projects\MyProjects\Web\JobOrderSystem - Tanza\19-2\Web-System-Projects\JOBORDER_WEB\db\bin\Release\EntityFramework.SqlServer.xml
+C:\Jay Tanza Projects\MyProjects\Web\JobOrderSystem - Tanza\19-2\Web-System-Projects\JOBORDER_WEB\db\obj\Release\DAL.csprojAssemblyReference.cache
+C:\Jay Tanza Projects\MyProjects\Web\JobOrderSystem - Tanza\19-2\Web-System-Projects\JOBORDER_WEB\db\obj\Release\DAL.csproj.CoreCompileInputs.cache
+C:\Jay Tanza Projects\MyProjects\Web\JobOrderSystem - Tanza\19-2\Web-System-Projects\JOBORDER_WEB\db\obj\Release\DAL.csproj.CopyComplete
+C:\Jay Tanza Projects\MyProjects\Web\JobOrderSystem - Tanza\19-2\Web-System-Projects\JOBORDER_WEB\db\obj\Release\db.dll
+C:\Jay Tanza Projects\MyProjects\Web\JobOrderSystem - Tanza\19-2\Web-System-Projects\JOBORDER_WEB\db\obj\Release\db.pdb

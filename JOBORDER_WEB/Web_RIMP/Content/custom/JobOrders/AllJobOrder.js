@@ -15,7 +15,6 @@ function gotoAllSoftware() {
 }
 
 function gotoAllHardware() {
-
     document.getElementById("jo-type-hw").style.backgroundColor = "red";
     document.getElementById("jo-type-sw").style.backgroundColor = "black";
     $("#dv-unassigned").hide();

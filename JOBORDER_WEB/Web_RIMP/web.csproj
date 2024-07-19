@@ -534,6 +534,7 @@
     <Content Include="Content\css\KPIJO.css" />
     <Content Include="Content\css\Login.css" />
     <Content Include="Content\css\Profile.css" />
+    <Content Include="Content\css\Security.css" />
     <Content Include="Content\css\Site.css" />
     <Content Include="Content\css\style.min.css" />
     <Content Include="Content\css\Unassigned.css" />

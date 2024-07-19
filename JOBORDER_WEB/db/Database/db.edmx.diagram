@@ -31,14 +31,14 @@
         <EntityTypeShape EntityType="JOModel.vw_Employee" Width="1.5" PointX="12.375" PointY="0.5" />
         <EntityTypeShape EntityType="JOModel.tbl_employee_outside_rimp" Width="1.5" PointX="0.75" PointY="10.375" />
         <EntityTypeShape EntityType="JOModel.vw_Managers" Width="1.5" PointX="14" PointY="0.5" />
-        <EntityTypeShape EntityType="JOModel.tbl_cc_category" Width="1.5" PointX="6.25" PointY="9.75" />
+        <EntityTypeShape EntityType="JOModel.tbl_cc_category" Width="1.5" PointX="5.5" PointY="3.375" />
         <EntityTypeShape EntityType="JOModel.tbl_employees" Width="1.5" PointX="6.25" PointY="11.375" />
         <EntityTypeShape EntityType="JOModel.tbl_sbu" Width="1.5" PointX="4.625" PointY="13.25" />
-        <EntityTypeShape EntityType="JOModel.tbl_sbu_costcenter" Width="1.5" PointX="4.625" PointY="9.75" />
+        <EntityTypeShape EntityType="JOModel.tbl_sbu_costcenter" Width="1.5" PointX="4" PointY="8" />
         <EntityTypeShape EntityType="JOModel.tbl_sbu_division" Width="1.5" PointX="4.625" PointY="11.375" />
         <EntityTypeShape EntityType="JOModel.tbl_jo_cc_details" Width="1.5" PointX="6.25" PointY="13.375" />
         <EntityTypeShape EntityType="JOModel.tbl_managers_email" Width="1.5" PointX="4.625" PointY="14.875" />
-        <EntityTypeShape EntityType="JOModel.tbl_costcenter_meaning" Width="1.5" PointX="7.875" PointY="10.75" />
+        <EntityTypeShape EntityType="JOModel.tbl_costcenter_meaning" Width="1.5" PointX="7.75" PointY="8.625" />
         <EntityTypeShape EntityType="JOModel.tbl_sub_assignees" Width="1.5" PointX="7.875" PointY="12.625" />
         <EntityTypeShape EntityType="JOModel.tbl_daily_report" Width="1.5" PointX="7.875" PointY="14.375" />
         <EntityTypeShape EntityType="JOModel.vw_Emails" Width="1.5" PointX="12.5" PointY="2.625" />
@@ -46,7 +46,7 @@
         <EntityTypeShape EntityType="JOModel.tbl_onhold_message" Width="1.5" PointX="12.375" PointY="6.625" />
         <EntityTypeShape EntityType="JOModel.tbl_status_timeline" Width="1.5" PointX="12.375" PointY="8.375" />
         <EntityTypeShape EntityType="JOModel.tbl_jo_creation_availability" Width="1.5" PointX="8.75" PointY="4.375" />
-        <EntityTypeShape EntityType="JOModel.tbl_problems" Width="1.5" PointX="4" PointY="5.625" />
+        <EntityTypeShape EntityType="JOModel.tbl_problems" Width="1.5" PointX="4" PointY="5.875" />
       </Diagram>
     </edmx:Diagrams>
   </edmx:Designer>
