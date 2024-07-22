@@ -1,4 +1,4 @@
-﻿// T4 code generation is enabled for model 'C:\Jay Tanza Projects\MyProjects\Web\JobOrderSystem - Tanza\19-2\Web-System-Projects\JOBORDER_WEB\db\Database\db.edmx'. 
+﻿// T4 code generation is enabled for model 'C:\Users\g192123\Desktop\Grace Booc\New Projects\Web\JobOrder\JOBORDER_WEB\db\Database\db.edmx'. 
 // To enable legacy code generation, change the value of the 'Code Generation Strategy' designer
 // property to 'Legacy ObjectContext'. This property is available in the Properties Window when the model
 // is open in the designer.
